@@ -1,0 +1,22 @@
+c:\users\kioriy\documents\visual studio 2012\Projects\PvTerrenos\PvTerrenos\bin\Debug\PvTerrenos.exe.config
+C:\Users\Kioriy\documents\visual studio 2012\Projects\PvTerrenos\PvTerrenos\bin\Debug\PvTerrenos.exe
+C:\Users\Kioriy\documents\visual studio 2012\Projects\PvTerrenos\PvTerrenos\bin\Debug\PvTerrenos.pdb
+C:\Users\Kioriy\documents\visual studio 2012\Projects\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.csprojResolveAssemblyReference.cache
+C:\Users\Kioriy\documents\visual studio 2012\Projects\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.FrmVentaLote.resources
+C:\Users\Kioriy\documents\visual studio 2012\Projects\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.FrmAltaPredio.resources
+C:\Users\Kioriy\documents\visual studio 2012\Projects\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.Properties.Resources.resources
+C:\Users\Kioriy\documents\visual studio 2012\Projects\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.csproj.GenerateResource.Cache
+C:\Users\Kioriy\documents\visual studio 2012\Projects\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.exe
+C:\Users\Kioriy\documents\visual studio 2012\Projects\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.pdb
+C:\Users\Kioriy\documents\visual studio 2012\Projects\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.FrmAltaCliente.resources
+C:\Users\Kioriy\documents\visual studio 2012\Projects\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.FrmPago.resources
+C:\Users\Kioriy\Documents\Git\PvTerrenos\PvTerrenos\bin\Debug\PvTerrenos.exe.config
+C:\Users\Kioriy\Documents\Git\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.exe
+C:\Users\Kioriy\Documents\Git\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.pdb
+C:\Users\Kioriy\Documents\Git\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.csprojResolveAssemblyReference.cache
+C:\Users\Kioriy\Documents\Git\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.FrmVentaLote.resources
+C:\Users\Kioriy\Documents\Git\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.FrmAltaPredio.resources
+C:\Users\Kioriy\Documents\Git\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.FrmAltaCliente.resources
+C:\Users\Kioriy\Documents\Git\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.FrmPago.resources
+C:\Users\Kioriy\Documents\Git\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.Properties.Resources.resources
+C:\Users\Kioriy\Documents\Git\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.csproj.GenerateResource.Cache
