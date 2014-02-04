@@ -20,3 +20,15 @@ C:\Users\Kioriy\Documents\Git\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.FrmAlta
 C:\Users\Kioriy\Documents\Git\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.FrmPago.resources
 C:\Users\Kioriy\Documents\Git\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.Properties.Resources.resources
 C:\Users\Kioriy\Documents\Git\PvTerrenos\PvTerrenos\obj\Debug\PvTerrenos.csproj.GenerateResource.Cache
+C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\bin\Debug\PvTerrenos.exe.config
+C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\obj\Debug\PvTerrenos.exe
+C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\bin\Debug\PvTerrenos.exe
+C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\bin\Debug\PvTerrenos.pdb
+C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\obj\Debug\PvTerrenos.csprojResolveAssemblyReference.cache
+C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\obj\Debug\PvTerrenos.FrmVentaLote.resources
+C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\obj\Debug\PvTerrenos.FrmAltaPredio.resources
+C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\obj\Debug\PvTerrenos.FrmAltaCliente.resources
+C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\obj\Debug\PvTerrenos.FrmPago.resources
+C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\obj\Debug\PvTerrenos.Properties.Resources.resources
+C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\obj\Debug\PvTerrenos.csproj.GenerateResource.Cache
+C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\obj\Debug\PvTerrenos.pdb
