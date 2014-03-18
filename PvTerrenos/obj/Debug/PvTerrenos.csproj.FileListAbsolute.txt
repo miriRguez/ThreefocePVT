@@ -32,3 +32,4 @@ C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\obj\Debug\PvTerrenos.Fr
 C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\obj\Debug\PvTerrenos.Properties.Resources.resources
 C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\obj\Debug\PvTerrenos.csproj.GenerateResource.Cache
 C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\obj\Debug\PvTerrenos.pdb
+C:\Users\Kioriy\Documents\GitHub\ThreefocePVT\PvTerrenos\obj\Debug\PvTerrenos.frmInicioSesion.resources

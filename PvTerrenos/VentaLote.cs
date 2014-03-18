@@ -35,6 +35,12 @@ namespace PvTerrenos
             abrirPago.Show();
         }
 
+       
+
+       
+
+        
+
         
        
 
